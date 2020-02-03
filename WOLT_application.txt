@@ -1,0 +1,6 @@
+List of restaurants
+use django framework
+store json values into database
+loop through all restaurants
+display them as django variables
+That is my goal at the moment
